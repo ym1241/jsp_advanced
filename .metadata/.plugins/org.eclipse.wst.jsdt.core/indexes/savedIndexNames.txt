@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\23Q3Programming\jsp±â¸»\jsp_advanced\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2502305620.index
+938010794.index
+3394378014.index
+3170477414.index
+3170477414.index
+3251352437.index
+3733671327.index
+3091501556.index
+991611909.index
